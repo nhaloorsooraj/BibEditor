@@ -34,7 +34,7 @@ IMPORTANT:
    Contact Information:
    - Author: SOORAJ NHALOOR
    - Email: soorajnhaloor123@gmail.com
-   - Website:sooraj-nhaloor.github.io
+   - Website:nhaloorsooraj.github.io
 
 ══════════════════════════════════════════════════════════════════════════════════
 
